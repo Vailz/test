@@ -10,7 +10,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_URL": "https://pis-kp-penzov-pm18.vercel.app/",
+        "APP_URL": "https://test-b6du.onrender.com",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
