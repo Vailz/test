@@ -5,7 +5,7 @@ import path from 'path'
 export default defineConfig({
     plugins: [
         laravel([
-            'resources/js/app.js',
+            'node resources/js/app.js',
         ]),
     ],
     resolve: {
